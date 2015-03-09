@@ -1,0 +1,16 @@
+core = "7.x"
+description = "Deploy module for Kursuscenter"
+name = "Kursuscenter Deploy"
+package = "Kursuscenter"
+project = "kursuscenter_deploy"
+version = "7.x-0.1"
+
+dependencies[] = media_wysiwyg
+dependencies[] = media_wysiwyg_view_mode
+dependencies[] = panopoly_seo
+dependencies[] = mailchimp_lists
+dependencies[] = webform
+dependencies[] = webform_mailchimp
+dependencies[] = select_or_other
+dependencies[] = i18n_field
+dependencies[] = radix_layouts
